@@ -11,8 +11,6 @@ Running Instructions:
 
 3) Enter the following commands:
 
-    javac model/FourPictures.java
-    javac view/GameWindow.java
     javac controller/Main.java
     java controller/Main
 
