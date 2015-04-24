@@ -4,7 +4,11 @@ The popular Four Pictures One Word mobile game, recreated for desktop with level
 Running Instructions:
 
 1) Clone repository to your desired location.
+
+
 2) Open your terminal/command prompt and cd into the root of the repository
+
+
 3) Enter the following commands:
 
     javac model/FourPictures.java
